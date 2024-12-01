@@ -1,0 +1,14 @@
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\obj\Release\App.csproj.AssemblyReference.cache
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\bin\Release\Optimal route.exe.config
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\bin\Release\Optimal route.exe
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\bin\Release\Optimal route.pdb
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\obj\Release\Optimal route.exe
+C:\Users\nur20\OneDrive\Рабочий стол\App\App\App\obj\Release\Optimal route.pdb
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\bin\Release\Optimal route.exe.config
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\bin\Release\Optimal route.exe
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\bin\Release\Optimal route.pdb
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\obj\Release\App.csproj.AssemblyReference.cache
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\obj\Release\Optimal route.exe
+C:\Users\nur20\OneDrive\Рабочий стол\для гита\App\obj\Release\Optimal route.pdb
