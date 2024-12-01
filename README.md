@@ -44,9 +44,13 @@ XN1  XN2  … XNM
 • Минимальные затраты на перевозки товаров.
 
 # Решение
-## Программные средства: 
+## Используемые средства: 
 - FrameworkDisplayName = ".NET Framework 4.8"
 - Microsoft Visual Studio v14.38.33135.00
+- Intel(R) Core(TM) i5-8300H CPU @ 2.30 GHz
+- Motherboard ASUSTeK X580GD
+- Graphics NVIDIA GeForce GTX 1050 GDDR5 4 GB
+- Samsung DDR4-2400 (SO-DIMM) RAM 12,0 GB; 17 clocks; 1200MHz
 ## Скачивание проекта
 Для удобства скачивания решение представлено в виде архива [DownloadMe.zip](https://github.com/RFPanda/Optimal-route/blob/main/DownlodMe.zip)
 ## Метод решения задачи
