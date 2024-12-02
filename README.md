@@ -42,7 +42,7 @@ XN1  XN2  … XNM
 - Минимальные затраты на перевозки товаров.
 
 # Решение
-## Используемые средства: 
+## Используемые средства
 - FrameworkDisplayName = ".NET Framework 4.8"
 - Microsoft Visual Studio v14.38.33135.00
 - Intel(R) Core(TM) i5-8300H CPU @ 2.30 GHz
